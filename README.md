@@ -1,3 +1,4 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 # 🐾 Data Collection and Wrangling Project 🐾
 
 ### 📌 **Project Title**: Analysis of Registered Veterinary Medicines
