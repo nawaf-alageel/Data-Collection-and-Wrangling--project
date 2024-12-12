@@ -64,12 +64,12 @@ pip install pandas numpy matplotlib seaborn
 📝 Run the Notebook:
 Open the .ipynb file in Jupyter or Google Colab and run the cells to see the analysis.
 
-👥 Contributors
-Nawaf Abdulrhman Alageel: Abstract, Introduction, and Results (Problem 1)
-Mohammed Khalid Altufayhi: Results (Problem 3) and Conclusion
-Albadar Ibrahim Almaymani: Results (Problem 2) and References
-Abdullah Mansour Habit: Code and Discussion
+## 👥 **Contributors**
 
+- **Nawaf Abdulrhman Alageel**: Abstract, Introduction, and Results (Problem 1)  
+- **Mohammed Khalid Altufayhi**: Results (Problem 3) and Conclusion  
+- **Albadar Ibrahim Almaymani**: Results (Problem 2) and References  
+- **Abdullah Mansour Habit**: Code and Discussion
 
 ## 📚 **References**
 
